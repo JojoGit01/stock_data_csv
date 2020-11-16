@@ -1,9 +1,9 @@
 name,price,class,mlat,mlong
 Monaco / Ruscino / Agréable 2 pièces avec grande terrasse,4200,Prix compris entre 1 000 et 10 000€,43.733174,7.426892
 Le Roqueville : 2 Pièces en façade avec vue jardin,4300,Prix compris entre 1 000 et 10 000€,43.73935208,7.42261648
-Millefiori: spacieux 3 Pièces, cave et parking,8000,Prix compris entre 1 000 et 10 000€,43.740918,7.423711
+Millefiori: spacieux 3 Pièces cave et parking,8000,Prix compris entre 1 000 et 10 000€,43.740918,7.423711
 Studio - VILLA DIANA,2300,Prix compris entre 1 000 et 10 000€,43.739343,7.420982
-Monte Carlo Sun Studio semi-meublé, possibilité parking,2200,Prix compris entre 1 000 et 10 000€,43.7503427,7.43844151
+Monte Carlo Sun Studio semi-meublé possibilité parking,2200,Prix compris entre 1 000 et 10 000€,43.7503427,7.43844151
 Beau duplex avec terrasse sur les 3 côtés,8500000,Prix compris entre 1 000 000 et 10 000 000€,43.73088684,7.42408633
 Fonds de commerce: Restaurant - Monaco-Ville,450000,Prix compris entre 100 000 et 1 000 000€,43.73088684,7.42408633
 BUREAU 2 PIECES AVEC VUE,4500,Prix compris entre 1 000 et 10 000€,43.738335,7.42226
@@ -14,7 +14,7 @@ CHATEAU AMIRAL,3950,Prix compris entre 1 000 et 10 000€,43.747878,7.433517
 Monaco / Résidence Métropole/ Appartement de 2 pièces,11500,Prix compris entre 10 000 et 100 000€,43.740577,7.427659
 Monaco / Chateau d'Azur / Studio en très bon état SOUS OFFRE,1800,Prix compris entre 1 000 et 10 000€,43.747646,7.43239
 "Victoria" : 5 Pièces penthouse avec emplacement de voiture,18000,Prix compris entre 10 000 et 100 000€,43.739724,7.422488
-Ligures Studio avec vue mer, cave et parking,2900,Prix compris entre 1 000 et 10 000€,43.735771,7.414484
+Ligures Studio avec vue mer cave et parking,2900,Prix compris entre 1 000 et 10 000€,43.735771,7.414484
 Monaco / Studio avec terrasse vue mer,null,,43.735771,7.414484
 VILLA BIANCA,5400000,Prix compris entre 1 000 000 et 10 000 000€,43.743644,7.429617
 Appartement rénové avec jardin - Exclusivité,4900000,Prix compris entre 1 000 000 et 10 000 000€,43.735771,7.414484
@@ -23,7 +23,7 @@ SPACIEUX STUDIO PROCHE DE TOUTES COMMODITES,1650000,Prix compris entre 1 000 000
 Le Métropole - Résidence Hôtelière - Carré d'Or,35000,Prix compris entre 10 000 et 100 000€,43.740577,7.427659
 Monaco / Le Zodiaque / 2 pièces à usage mixte,2600,Prix compris entre 1 000 et 10 000€,43.734,7.417
 Le Memmo Center - 5 pièces - Fontvieille,19500,Prix compris entre 10 000 et 100 000€,43.726305,7.416501
-PARK PALACE - Studio avec vue Casino, cave et parking,3700,Prix compris entre 1 000 et 10 000€,43.739447,7.424529
+PARK PALACE - Studio avec vue Casino cave et parking,3700,Prix compris entre 1 000 et 10 000€,43.739447,7.424529
 AGREABLE APPARTEMENT,3500,Prix compris entre 1 000 et 10 000€,43.747878,7.433517
 Monaco / Rocazur / Bureau,2350,Prix compris entre 1 000 et 10 000€,43.748979,7.434225
 George V - Bureaux - Carré d'Or,17059,Prix compris entre 10 000 et 100 000€,43.74377802,7.42937565
@@ -38,9 +38,9 @@ Monaco/Victoria Building/studio,2800,Prix compris entre 1 000 et 10 000€,43.73
 STUDIO AU MONTAIGNE usage mixte,1480000,Prix compris entre 1 000 000 et 10 000 000€,43.741406,7.427369
 Monaco / Le Zodiaque / Spacieux 3 pièces,6350,Prix compris entre 1 000 et 10 000€,43.734,7.417
 Exclusivité - Très beau studio vue mer,2500000,Prix compris entre 1 000 000 et 10 000 000€,43.75101695,7.43757248
-Millefiori - Beau 3 Pièces vue mer, cave et parking,8300,Prix compris entre 1 000 et 10 000€,43.740918,7.423711
+Millefiori - Beau 3 Pièces vue mer cave et parking,8300,Prix compris entre 1 000 et 10 000€,43.740918,7.423711
 Le Métropole - Résidence Hôtelière - Carré d'Or,11500,Prix compris entre 10 000 et 100 000€,43.740577,7.427659
-4 Pièces vue panoramique mer, port et Palais,8700000,Prix compris entre 1 000 000 et 10 000 000€,43.73317381,7.41567492
+4 Pièces vue panoramique mer port et Palais,8700000,Prix compris entre 1 000 000 et 10 000 000€,43.73317381,7.41567492
 Monaco/Studio/Soleil d'or,3750,Prix compris entre 1 000 et 10 000€,43.737,7.419
 MONTE-CARLO SUN - PROCHE DES PLAGES,4500,Prix compris entre 1 000 et 10 000€,43.7503427,7.43844151
 L'ASTORIA 1 Pièce Bureau Rénové,1900,Prix compris entre 1 000 et 10 000€,43.741212,7.425406
@@ -95,7 +95,7 @@ BUREAUX PATIO PALACE,5500,Prix compris entre 1 000 et 10 000€,43.73427463,7.41
 RESTAURANT QUARTIER PORT,null,,undefined
 LOCAL usage commercial ou bureau Bail 33 mois,9500,Prix compris entre 1 000 et 10 000€,43.737639,7.4187
 APPARTEMENT COUP DE COEUR! Magnifiquement rénové,4500000,Prix compris entre 1 000 000 et 10 000 000€,43.739414,7.421908
-CARRÉ D'OR, GRAND BOX FERMÉ,380000,Prix compris entre 100 000 et 1 000 000€,43.742119,7.428786
+CARRÉ D'OR GRAND BOX FERMÉ,380000,Prix compris entre 100 000 et 1 000 000€,43.742119,7.428786
 Monaco / Résidence Métropole / Appartement de 6 pièces,42000,Prix compris entre 10 000 et 100 000€,43.740577,7.427659
 Le Palais du Printemps - Roof top - Jardin Exotique,null,,43.736298,7.41707
 Murs libres à la vente,850000,Prix compris entre 100 000 et 1 000 000€,43.748979,7.434225
